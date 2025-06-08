@@ -1,30 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <title>Sistema de Conteo de Objetos por Zona de Ingreso</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    h1, h2 {
-      color: #004080;
-    }
-    code {
-      background-color: #eaeaea;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    .image {
-      margin: 20px 0;
-    }
-  </style>
-</head>
-<body>
-
   <h1>Sistema de Conteo de Objetos por Zona de Ingreso</h1>
 
   <p>
