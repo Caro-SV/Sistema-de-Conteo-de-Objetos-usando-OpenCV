@@ -18,10 +18,9 @@
   </ul>
 
   <h2>Muestra de Funcionamiento</h2>
-  <p>A continuación se muestra un ejemplo de cómo funciona el sistema. Cuando un objeto azul entra por primera vez a la zona roja, el conteo aumenta:</p>
+  <p>A continuación se muestra un ejemplo de cómo funciona el sistema. Cuando un objeto azul entra a la zona roja, el conteo aumenta independientemente de la dirección de la que provenga:</p>
 
   <div class="image">
-    <!-- Reemplaza este src con tu imagen o GIF -->
     <img src="demo.gif" alt="Demostración del sistema en funcionamiento" width="500">
   </div>
 </body>
