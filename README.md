@@ -20,9 +20,9 @@
   <h2>Muestra de Funcionamiento</h2>
   <p>A continuación se muestra un ejemplo de cómo funciona el sistema. Cuando un objeto azul entra a la zona roja, el conteo aumenta independientemente de la dirección de la que provenga:</p>
 
-  <div class="image">
-    <img src="https://github.com/Caro-SV/Sistema-de-Conteo-de-Objetos-usando-OpenCV/blob/84afc840b90563b7351f9ada5e15d94f91b8920e/Grabacion.gif" alt="Demostración del sistema en funcionamiento" width="500">
-  </div>
+  <p align="center">
+  <img src="https://github.com/Caro-SV/Sistema-de-Conteo-de-Objetos-usando-OpenCV/blob/84afc840b90563b7351f9ada5e15d94f91b8920e/Grabacion.gif" alt="Image">
+</p>
 </body>
 </html>
 
